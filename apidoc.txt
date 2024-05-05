@@ -148,7 +148,7 @@
 
         authorization:Token
 
-        status:pending
+        status:completed
 
     >>> api for listing a orders<<<<    
     
